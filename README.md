@@ -66,19 +66,15 @@ The dashboard will open in your browser at http://localhost:8501.
 
 
 ## 6. Repository Structure
-
-README.md
-
-requirements.txt
-
-Xiaoyu_Yang_2468581_ACC102_Task 2.ipynb
-
-bank_dashboard.py
-
-data/
-
-fs_bcombas_enhanced_with_metrics.csv
-
+```text
+banks_performance_insight/
+├── README.md
+├── requirements.txt
+├── Xiaoyu_Yang_2468581_ACC102_Task 2.ipynb
+├── bank_dashboard.py
+└── data/
+    └── fs_bcombas_enhanced_with_metrics.csv
+```
 ## 7. Limitations
 
 - Survivorship bias: only banks with complete 2020-2024 data are included
@@ -96,4 +92,4 @@ fs_bcombas_enhanced_with_metrics.csv
 
 ## 9. Demo Video
 
-[Insert your 1-3 minute demo video link here]
+[Insert your 1-3 minute demo video link here](https://video.xjtlu.edu.cn/Mediasite/Play/031e80e63acb43b5ae31390302e53c291d)
