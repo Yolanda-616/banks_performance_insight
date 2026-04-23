@@ -44,15 +44,19 @@ streamlit run bank_dashboard.py
 text
 
 ## 6. Repository Structure
-'''
-banks_performance_insight/
-├── README.md
-├── requirements.txt
-├── Xiaoyu_Yang_2468581_ACC102_Task 1.ipynb
-├── bank_dashboard.py
-└── data/
-    └── fs_bcombas_enhanced_with_metrics.csv
-'''
+
+README.md
+
+requirements.txt
+
+Xiaoyu_Yang_2468581_ACC102_Task 2.ipynb
+
+bank_dashboard.py
+
+data/
+
+fs_bcombas_enhanced_with_metrics.csv
+
 ## 7. Limitations
 
 - Survivorship bias: only banks with complete 2020-2024 data are included
