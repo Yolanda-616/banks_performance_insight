@@ -92,4 +92,4 @@ banks_performance_insight/
 
 ## 9. Demo Video
 
-[Insert your 1-3 minute demo video link here](https://video.xjtlu.edu.cn/Mediasite/Play/031e80e63acb43b5ae31390302e53c291d)
+[https://video.xjtlu.edu.cn/Mediasite/Play/031e80e63acb43b5ae31390302e53c291d]
